@@ -13,17 +13,17 @@
 
 ---
 
-<!--### Day 2: November 18, 2017
+### Day 2: April 25, 2018
 
-**Today's Progress**: Completed more FreeCodeCamp JavaScript module...alomost done! Read more on SharePoint REST APIs and played in code with CRUD.
+**Today's Progress**: Went back to complete lessons 3 & 6 in Udacity but was quickly pulled away to focus on building a vanilla JS accordion.
 
-**Thoughts:** This is quite a long module, estimated to take 10 hours to complete.  The SharePoint CRUD process will more than likely be used frequently in my new job.
+**Thoughts:** Good so far...should have more time tomorrow to actually update my thoughts and links to training. 
 
-**Link to training:** [Rest API Reference](https://msdn.microsoft.com/en-us/library/office/jj860569.aspx)
+**Link to training:** 
 
 ---
 
-### Day 3: November 19, 2017
+<!--### Day 3: November 19, 2017
 
 **Today's Progress**: The FreeCodeCamp JavaScript module is dooooonnnneee!  Moving on to Object Oriented and Functional Programming next. Broke my "Hello World" webpart to better understand how SharePoint works with React. Started reviewing SQL Database Fundamentals on the Microsoft Virtual Academy.
 
