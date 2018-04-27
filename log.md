@@ -1,7 +1,26 @@
 # 100 Days Of Code - Log (Round 2)
 
 ---
+### Day 3: April 26, 2018
 
+**Today's Progress** Volunteer work for a local women's support group & hacking a jCarousel from the GoArmy official webpage.  
+
+**Thoughts:** Unfortunately, I was not able to study my Udacity course today but I was able to get the ground work of two new projects started.  I forked a nice layout for the women's group from [TechNext](https://github.com/technext/labs).  Can't wait to get the website up and running. 
+
+**Projects:** 
+[Go Army Carousel (CodePen)](https://codepen.io/MoHampton/pen/pVEdMo)
+[Women's Community Website (github)] (https://github.com/MoHampton/100DaysofCode-Round3)
+
+---
+### Day 2: April 25, 2018
+
+**Today's Progress**: Went back to complete lessons 3 & 6 in Udacity but was quickly pulled away to focus on building a vanilla JS accordion.
+
+**Thoughts:** Good so far...should have more time tomorrow to actually update my thoughts and links to training. 
+
+**Link to training:** 
+
+---
 ### Day 1: April 24, 2018
 
 **Today's Progress**: Started the Udacity FEND Nanogdegree curriculum.  Updated a SharePoint Contacts application.
@@ -10,16 +29,6 @@
 
 **Training**:[SPFx Youtube Video](https://www.youtube.com/watch?v=N1Z5XDLZ0J8&feature=youtu.be)
 **Work**: [Free Code Camp Tribute Page](https://codepen.io/MoHampton/full/GMVWLy)
-
----
-
-### Day 2: April 25, 2018
-
-**Today's Progress**: Went back to complete lessons 3 & 6 in Udacity but was quickly pulled away to focus on building a vanilla JS accordion.
-
-**Thoughts:** Good so far...should have more time tomorrow to actually update my thoughts and links to training. 
-
-**Link to training:** 
 
 ---
 
