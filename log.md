@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log (Round 2)
 
 ---
+### Day 4: April 27, 2018
+
+**Today's Progress** Go Army Carousel & Code Repository 
+
+**Thoughts:** Made more progress on the carousel but I cannot get the right scroll effect yet.  I'm also creating a code repository with useful SharePoint code snippets to assist Knowledge Systems Engineers at work.  
+
+**Projects:** 
+[Go Army Carousel (CodePen)](https://codepen.io/MoHampton/pen/pVEdMo)
+---
 ### Day 3: April 26, 2018
 
 **Today's Progress** Volunteer work for a local women's support group & hacking a jCarousel from the GoArmy official webpage.  
