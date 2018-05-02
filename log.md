@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log (Round 2)
 
 ---
+### Day 5: May 2, 2018
+
+**Today's Progress** Grow With Google Event (Columbia, SC) [Grow With Google Event](https://events.withgoogle.com/join-google-in-columbia/ )
+
+**Thoughts:** Over the moon to attend my first Google event today.  My first class is Get Found on Google Search and Maps.  
+
+**Projects:** 
+[Go Army Carousel (CodePen)](https://codepen.io/MoHampton/pen/pVEdMo)
+
+---
+---
 ### Day 4: April 27, 2018
 
 **Today's Progress** Go Army Carousel & Code Repository 
@@ -9,6 +20,7 @@
 
 **Projects:** 
 [Go Army Carousel (CodePen)](https://codepen.io/MoHampton/pen/pVEdMo)
+
 ---
 ### Day 3: April 26, 2018
 
