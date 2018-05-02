@@ -7,10 +7,22 @@
 
 **Thoughts:** Over the moon to attend my first Google event today.  My first class is Get Found on Google Search and Maps.  
 
-**Projects:** 
-[Go Army Carousel (CodePen)](https://codepen.io/MoHampton/pen/pVEdMo)
+**Get Found on Google Maps:** The Google My Business (free) is only available for current permanent business.  Set up your business account on  [Business Verification](https://www.gybo.com/business).  You can also set up a Google Voice account to receive messages outside of a cell phone. You can integrate Shopify/eCommerce to the Google website. 
 
----
+**Intro to Online Marketing:** 
+- Create "How to" videos, "Top 10" lists and educational material for improved searches on google.com.
+- Ensure a geo location is added to business for "near me" searches. 
+- Ensure the NAP is accurate (Name, Address, Phone) and consistent on all platforms. 
+- Google virtual photographer is available to make panoramic picture for the "virtual tour".
+- Before you begin, make a plan: 1)Why do you want a website? 2)Who is your target audience? 3)How will you reach them? 4)How will you measure success?
+- Google Search Console [Google Webmasters](https://www.google.com/webmasters/#?modal_active=none).
+- Use [Google Trends](https://trends.google.com/trends/) to search the latest buss words and hot topics. 
+- Social Media Marketing: Focus on education, inspiration and entertainment.  
+- Email Marketing: Should be a natural, organically grown mailing list.  Ensure the email is mobile responsive.  *Key: A great subject line! 
+- Test your mobile speed [Google Test Site](https://testmysite.thinkwithgoogle.com/). 
+- [AdWords Express](gybo.com/awexpress) 
+- [Google Analytics](google.com/analytics) Must load the analytics tracking onto the website. 
+- [Google Partners](https://www.google.com/partners/)
 ---
 ### Day 4: April 27, 2018
 
