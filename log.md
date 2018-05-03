@@ -23,6 +23,9 @@
 - [AdWords Express](gybo.com/awexpress) 
 - [Google Analytics](google.com/analytics) Must load the analytics tracking onto the website. 
 - [Google Partners](https://www.google.com/partners/)
+
+**Intro to Code:** Learned how to make a sidebar UI withing Google Sheets by leveraging Google Apps Script [Google Apps Script](developers.google.com/apps-script/guides/dialogs#custom_sidebars)
+
 ---
 ### Day 4: April 27, 2018
 
