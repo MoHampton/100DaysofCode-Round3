@@ -1,4 +1,10 @@
 # 100 Days Of Code - Log (Round 2)
+---
+### Day 11: May 4, 2018
+
+**Today's Progress** Submitted the my first project for the FEND Nanodgree and started freelance work on a spa website. 
+
+**Thoughts:** Moving at a slow pace on my Udacity course...and I was just notified that I received the scholarship for data science too! Whew! Good news but a lot of hard work coming my way. After receiving so much information at the Grow with Google event, I'm going to leverage the business website tool for a quick turnaround project. [Google Webmasters](https://www.google.com/webmasters/#?modal_active=none).
 
 ---
 ### Day 5: May 2, 2018
