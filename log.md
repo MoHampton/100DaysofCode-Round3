@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log (Round 2)
+
+---
+### Day 12: May 5, 2018
+
+**Today's Progress** FEND Web Foundations Lesson 13 and freelance work for a used appliance store.
+
+**Thoughts:** Hoping to make the portfolio deadline in FEND.  Hopefully I can complete the lessons and project tomorrow.  Moving forward with developing a website for a used appliance store.  The plan is to use Google Site integrated with Shopify.  This should make a quick setup but easy for the store owner to update information without the assistance of a web developer. 
+
 ---
 ### Day 11: May 4, 2018
 
