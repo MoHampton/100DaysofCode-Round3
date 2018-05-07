@@ -1,11 +1,24 @@
 # 100 Days Of Code - Log (Round 2)
 
 ---
+### Day 13: May 6, 2018
+
+**Today's Progress** FEND lessons and started volunteer work on a local women's community website.
+
+**Thoughts:** I used [Webflow](https://webflow.com/design/bandofsisters#) for the very first time today and I'm very handicapped using it.  I'm trying to understand the software and it is becoming a little easier.  It's a great too for HTML and CSS but I'm not sold on using JS. It did not feel natural...I rather just embed code than fidget around the editor. 
+
+---
 ### Day 12: May 5, 2018
 
 **Today's Progress** FEND Web Foundations Lesson 13 and freelance work for a used appliance store.
 
-**Thoughts:** Hoping to make the portfolio deadline in FEND.  Hopefully I can complete the lessons and project tomorrow.  Moving forward with developing a website for a used appliance store.  The plan is to use Google Site integrated with Shopify.  This should make a quick setup but easy for the store owner to update information without the assistance of a web developer. 
+**Thoughts:** Hoping to make the portfolio deadline in FEND.  Hopefully I can complete the lessons and project tomorrow.  Moving forward with developing a website for a used appliance store.  The plan is to use Google Site integrated with Shopify.  This should make a quick setup but easy for the store owner to update information without the assistance of a web developer.
+
+**Notes:** 
+- Buttons should be at least 48px x 48px and 40px of margin (padding: 1.5em;) for improved responsiveness on mobile and tablet devices.
+- Keep your element position relative.  Absolute positioning is a nightmare. Img, embed, object and video should be set to max-width: 100%; to be safe. 
+![screenshot](FEND-1.12.png)
+- Prioritize content - Start small screen to big screen. #PerformanceMatters
 
 ---
 ### Day 11: May 4, 2018
