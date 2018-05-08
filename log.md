@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log (Round 2)
 
 ---
+### Day 14: May 7, 2018
+
+**Today's Progress** BOSS women's community website and SharePoint development.
+
+**Thoughts:** Short log today but I was able to make my volunteer website mobile friendly and I'm researching how to develop a CMS UI.  
+
+---
 ### Day 13: May 6, 2018
 
 **Today's Progress** FEND lessons and started volunteer work on a local women's community website.
