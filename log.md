@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log (Round 2)
 
 ---
+### Day 15: May 8, 2018
+
+**Today's Progress** Flex-box CSS & SharePoint development
+
+**Thoughts:** Small victory at work!  I made my first SP list integrated accordion.  And it's pretty nice looking, if I can say so myself.  FEND: Going through the flex-box tutorials and anxious to finish my first project.   
+
+---
 ### Day 14: May 7, 2018
 
 **Today's Progress** BOSS women's community website and SharePoint development.
