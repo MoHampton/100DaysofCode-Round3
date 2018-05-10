@@ -1,4 +1,10 @@
 # 100 Days Of Code - Log (Round 2)
+---
+### Day 16: May 9, 2018
+
+**Today's Progress** More Flex-box CSS & FEND Optimizations
+
+**Thoughts:** Took what I learned from the FEND flex box tutorial to design a responsive light box to hold images.  Also started a new FEND tutorial about optimizing images, tables, and fonts to improve responsive layouts.    
 
 ---
 ### Day 15: May 8, 2018
