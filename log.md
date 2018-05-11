@@ -1,4 +1,11 @@
-# 100 Days Of Code - Log (Round 2)
+# 100 Days Of Code - Log (Round 3)
+---
+### Day 16: May 10, 2018
+
+**Today's Progress** SP Light Box & FEND Portfolio
+
+**Thoughts:** Pushing close to my FEND deadline.  I will update later... 
+
 ---
 ### Day 16: May 9, 2018
 
