@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log (Round 3)
 ---
+### Day 17: May 11, 2018
+
+**Today's Progress** SP Light Box & FEND Portfolio
+
+**Thoughts:** I missed the deadline but still moving forward on the FEND degree.  Made major progress with the SP Light box by integrating the rest API call.
+
+---
 ### Day 16: May 10, 2018
 
 **Today's Progress** SP Light Box & FEND Portfolio
