@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log (Round 3)
+
+---
+### Day 18: May 16, 2018
+
+**Today's Progress** GWG Project #1 & SP Lightbox COMPLETED!!
+
+**Thoughts:** I finally completed my first GEG project on Saturday and received the review pretty quickly. I attempted to submit the Picel project, but it is not passing the test. I will try again soon but I'm not too thrilled to revisit the code. At work, I finally figured out how to pull rest API data into my SP light box from an asset library. Yay!
 ---
 ### Day 17: May 11, 2018
 
