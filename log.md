@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log (Round 3)
+
 ---
+### Day 20: May 18, 2018
+
+**Today's Progress** Tabbed Carousel & Video Lightbox
+
+**Thoughts:** 
+
+---
+
 ### Day 19: May 17, 2018
 
 **Today's Progress** Tabbed Carousel & Shopify Wesbiste
