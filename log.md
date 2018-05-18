@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log (Round 3)
+---
+### Day 19: May 17, 2018
+
+**Today's Progress** Tabbed Carousel & Shopify Wesbiste
+
+**Thoughts:** Used some of the skills taught from FEND degree to make the tabbed SP carousel responsive by leveraging flexbox.  Can't wait to spend more time learning but for now, I'm extremely busy.  Finished a mock e-commerce site last night.  The business owner is pleased but I know I can take the site to the next level once I understand the code behind Shopify. 
+
+[Shopify Store Preview](https://3chv2v5jd33klhwm-7882735673.shopifypreview.com/)
 
 ---
 ### Day 18: May 16, 2018
@@ -6,6 +14,7 @@
 **Today's Progress** GWG Project #1 & SP Lightbox COMPLETED!!
 
 **Thoughts:** I finally completed my first GEG project on Saturday and received the review pretty quickly. I attempted to submit the Picel project, but it is not passing the test. I will try again soon but I'm not too thrilled to revisit the code. At work, I finally figured out how to pull rest API data into my SP light box from an asset library. Yay!
+
 ---
 ### Day 17: May 11, 2018
 
