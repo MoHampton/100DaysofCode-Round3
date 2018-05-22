@@ -1,4 +1,10 @@
 # 100 Days Of Code - Log (Round 3)
+---
+### Day 21: May 21, 2018
+
+**Today's Progress** 
+
+**Thoughts:** 
 
 ---
 ### Day 20: May 18, 2018
