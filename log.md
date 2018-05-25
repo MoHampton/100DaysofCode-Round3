@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log (Round 3)
+--
+### Day 25: May 25, 2018
+
+**Today's Progress**  SP Lightbox & Slider
+
+**Thoughts:** Finally complete the demo code portion of my SP Code Repo for work.  
+
 ---
 ### Day 21: May 21, 2018
 
