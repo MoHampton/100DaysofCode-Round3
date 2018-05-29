@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log (Round 3)
---
+
+---
+
+### Day 29: May 29, 2018
+
+**Today's Progress**  The DOM (FEND)
+
+**Thoughts:** A few quick notes on the DOM: 1. HTML is received, 2. HTML tags are converted to tokens, 3. tokens are converted to Nodes, 4. Nodes are converted to the DOM. 
+
+---
+
 ### Day 25: May 25, 2018
 
 **Today's Progress**  SP Lightbox & Slider
