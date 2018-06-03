@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log (Round 3)
---
+---
+### Day: June 3, 2018
+
+**Today's Progress**  FEND...Project 2?
+
+**Thoughts:** Trying to focus on my last lessons.
+
+---
+
 ### Day 25: May 25, 2018
 
 **Today's Progress**  SP Lightbox & Slider
